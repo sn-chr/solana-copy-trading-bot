@@ -154,15 +154,6 @@ A: Yes — use separate processes with isolated configs and wallets.
 
 ---
 
-## 🔗 Contacts
-
-- Address: 77 Goldhawk Rd, London W12 8EH
-- Phone: +44 20 7946 0822
-- Email: contact@solgod.co.uk
-- Open hours: Mon–Sun 07:00–22:00
-
----
-
 ## 🏷️ SEO: Keywords & Topics
 
 toxi solana bot, bloom solana bot, nova solana bot, photon solana bot, trojan solana bot telegram, copy trade solana bot, fatality solana bot, defi solana bot, solana bot app, solana bot ai, solana bot arbitrage, solana bot alert, axiom solana bot, auto snipe solana bot, auto trading solana bot, all in one solana bot, solana bloom bot, solana bump bot github, banana gun solana bot, bullx solana bot, blood solutions solana bot, banana solana bot
